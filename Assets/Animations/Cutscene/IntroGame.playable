@@ -4776,7 +4776,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Jumpscare-sound2
   - m_Version: 1
-    m_Start: 42.93333333333333
+    m_Start: 43.31666666666667
     m_ClipIn: 0
     m_Asset: {fileID: -1016103309303467010}
     m_Duration: 1.6361666666666668
